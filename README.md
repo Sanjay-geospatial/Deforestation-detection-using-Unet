@@ -2,6 +2,8 @@
 
 This repository contains code and documentation for detecting deforestation in the Amazon rainforest using a U-Net deep learning model trained on multi-source satellite data from Sentinel-1 (SAR) and Sentinel-2 (optical).
 
+![Image](https://github.com/user-attachments/assets/09b64d38-08b1-47aa-9403-2a40f67649b6)
+
 ---
 
 ## 📌 Overview
