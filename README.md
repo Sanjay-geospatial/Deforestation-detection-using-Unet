@@ -14,6 +14,9 @@ This project uses a U-Net model with combined Sentinel-1 and Sentinel-2 imagery 
 
 ## 🛰️ Data Description
 
+
+### 📁 Source : https://www.kaggle.com/datasets/akhilchibber/deforestation-detection-dataset
+
 ### 🟡 Sentinel-2 (Optical)
 - Bands used: B2 (Blue), B3 (Green), B4 (Red), B8 (NIR)
 - Resolution: 10m
@@ -33,6 +36,11 @@ This project uses a U-Net model with combined Sentinel-1 and Sentinel-2 imagery 
 - **Input Channels**: 6 (Sentinel-2: 4 bands + Sentinel-1: 2 bands)
 - **Loss Function**: Binary Cross-Entropy
 - **Metrics**: Accuracy
+
+## 📊 Results
+
+- **Accuracy**: 0.94
+- **Loss**: 0.16
 
 ### 📦 Requirements
 
